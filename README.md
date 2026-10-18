@@ -1,6 +1,6 @@
 # Exact Counterfactual Explanations under IAR and AR
 
-Core implementation of tuple-deletion Why-Not explanations for conjunctive
+Implementation of tuple-deletion Why-Not explanations for conjunctive
 queries under denial constraints. Repairs are recomputed after deletion.
 Both **subset-minimal** and **minimum-cardinality** explanations are supported.
 
